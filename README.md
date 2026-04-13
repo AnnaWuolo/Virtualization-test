@@ -1,2 +1,2 @@
 # Virtualization-test
-Test for virtualization class
+Det här är ett nytt meddelande, test test.
